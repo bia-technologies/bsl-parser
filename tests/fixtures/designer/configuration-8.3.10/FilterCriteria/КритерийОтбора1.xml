@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
+	<FilterCriterion uuid="c48f420e-7c14-4e16-ac47-99569413c2ba">
+		<InternalInfo>
+			<xr:GeneratedType name="FilterCriterionManager.КритерийОтбора1" category="Manager">
+				<xr:TypeId>6259eecb-dadd-49b2-9bec-30f3afc5d1ce</xr:TypeId>
+				<xr:ValueId>652636dd-aee7-46c7-8777-f643675df33c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="FilterCriterionList.КритерийОтбора1" category="List">
+				<xr:TypeId>7bb28c57-f021-437b-b32c-80c92be40f62</xr:TypeId>
+				<xr:ValueId>6b29a565-54c0-4ab8-97f4-d1902d3c4e8f</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>КритерийОтбора1</Name>
+			<Synonym/>
+			<Comment/>
+			<Type/>
+			<UseStandardCommands>true</UseStandardCommands>
+			<Content/>
+			<DefaultForm>FilterCriterion.КритерийОтбора1.Form.ФормаСписка</DefaultForm>
+			<AuxiliaryForm/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+		</Properties>
+		<ChildObjects>
+			<Form>ФормаСписка</Form>
+			<Form>ФормаСписка1</Form>
+		</ChildObjects>
+	</FilterCriterion>
+</MetaDataObject>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="71c944c9-6ff8-44c6-9c90-3a3c6484ee28">
+  <name>ПодсистемыБСП</name>
+  <synonym>
+    <key>ru</key>
+    <value>Подсистемы БСП</value>
+  </synonym>
+  <comment>Подсистемы БСП</comment>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <explanation>
+    <key>ru</key>
+    <value>Подсистемы БСП</value>
+  </explanation>
+  <subsystems>Подсистема2</subsystems>
+</mdclass:Subsystem>
