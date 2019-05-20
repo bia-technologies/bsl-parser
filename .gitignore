@@ -3,4 +3,5 @@ bdd-log.xml
 *.orig
 exec.log
 ignore/**
+tests/common-fixtures/**
 tests.xml
