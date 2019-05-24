@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ff4617cb-06f3-4b10-9a6d-64f56b6335be">
+  <name>Конфигурация</name>
+  <synonym>
+    <key>ru</key>
+    <value>Текстовая конфигурация</value>
+  </synonym>
+  <comment></comment>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="2be6efa4-e468-40aa-9cd3-c846955e4afd"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="d2a73cef-6a3f-446f-992b-7000d9350836"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="a57031ec-497e-4d0d-b208-32f0edf3ad82"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="77409721-a5fb-4427-a211-ccc1fdb8a2b9"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="8a8b3683-89c8-486f-8d9e-73105b7637a6"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="1d10efc3-27c4-42b0-802d-f54bf0536308"/>
+  <namePrefix></namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.10</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <vendor></vendor>
+  <version></version>
+  <updateCatalogAddress></updateCatalogAddress>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.10</compatibilityMode>
+  <languages uuid="75e57f7d-fdfd-414b-a803-4fcd47d44f98">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <comment></comment>
+    <languageCode>ru</languageCode>
+  </languages>
+  <subsystems>Subsystem.ПодсистемыБСП</subsystems>
+  <styleItems>StyleItem.ЭлементСтиля1</styleItems>
+  <sessionParameters>SessionParameter.ПараметрСеанса1</sessionParameters>
+  <roles>Role.Роль1</roles>
+  <filterCriteria>FilterCriterion.КритерийОтбора1</filterCriteria>
+  <commonModules>CommonModule.КлиентскийМодуль</commonModules>
+  <commonModules>CommonModule.СерверныйМодуль</commonModules>
+  <commonModules>CommonModule.ГлобальныйМодуль</commonModules>
+  <commonModules>CommonModule.ПривилегированныйМодуль</commonModules>
+  <commonAttributes>CommonAttribute.ОбщийРеквизит1</commonAttributes>
+  <exchangePlans>ExchangePlan.ПланОбмена1</exchangePlans>
+  <webServices>WebService.WebСервис1</webServices>
+  <httpServices>HTTPService.HTTPСервис1</httpServices>
+  <eventSubscriptions>EventSubscription.ПодпискаНаСобытие1</eventSubscriptions>
+  <scheduledJobs>ScheduledJob.РегламентноеЗадание1</scheduledJobs>
+  <settingsStorages>SettingsStorage.ХранилищеНастроек1</settingsStorages>
+  <functionalOptions>FunctionalOption.ФункциональнаяОпция1</functionalOptions>
+  <functionalOptionsParameters>FunctionalOptionsParameter.ПараметрФункциональныхОпций1</functionalOptionsParameters>
+  <definedTypes>DefinedType.ОпределяемыйТип1</definedTypes>
+  <commonCommands>CommonCommand.ОбщаяКоманда1</commonCommands>
+  <commandGroups>CommandGroup.ГруппаКоманд1</commandGroups>
+  <constants>Constant.Константа1</constants>
+  <commonForms>CommonForm.Форма</commonForms>
+  <catalogs>Catalog.Справочник1</catalogs>
+  <documents>Document.Документ1</documents>
+  <documentJournals>DocumentJournal.ЖурналДокументов1</documentJournals>
+  <enums>Enum.Перечисление1</enums>
+  <reports>Report.Отчет1</reports>
+  <dataProcessors>DataProcessor.Обработка1</dataProcessors>
+  <informationRegisters>InformationRegister.РегистрСведений1</informationRegisters>
+  <accumulationRegisters>AccumulationRegister.РегистрНакопления1</accumulationRegisters>
+  <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.ПланВидовХарактеристик1</chartsOfCharacteristicTypes>
+  <chartsOfAccounts>ChartOfAccounts.ПланСчетов1</chartsOfAccounts>
+  <accountingRegisters>AccountingRegister.РегистрБухгалтерии1</accountingRegisters>
+  <chartsOfCalculationTypes>ChartOfCalculationTypes.ПланВидовРасчета1</chartsOfCalculationTypes>
+  <calculationRegisters>CalculationRegister.РегистрРасчета1</calculationRegisters>
+  <businessProcesses>BusinessProcess.БизнесПроцесс1</businessProcesses>
+  <tasks>Task.Задача1</tasks>
+</mdclass:Configuration>
