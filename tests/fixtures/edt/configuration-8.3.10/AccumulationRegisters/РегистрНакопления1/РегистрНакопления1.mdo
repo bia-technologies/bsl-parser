@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:AccumulationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f2592145-5385-4fee-9f55-dfc230ac0ae3">
+  <producedTypes>
+    <selectionType typeId="a4563a1a-580d-4de6-ac79-5f8d676c8731" valueTypeId="ed9e3083-14f9-408e-9d20-634ef34bc283"/>
+    <listType typeId="2dcdac02-23a7-4c2a-8dc1-00fb5133211f" valueTypeId="43e4bc7e-2da4-46a1-98ea-21da369f05da"/>
+    <managerType typeId="56b60f48-e5d9-47e1-bb61-9104444d3805" valueTypeId="09322d68-0dce-437b-9d80-e812a8bf6983"/>
+    <recordSetType typeId="316c1163-894a-443a-8bd3-fb56994e2af4" valueTypeId="98b62728-f7b4-4364-b3af-873c1fb62e98"/>
+    <recordKeyType typeId="de1e4113-a808-4933-b26f-5fac533b2ece" valueTypeId="51a2396d-8ba8-42f2-9c37-d1ada60d86b8"/>
+    <recordType typeId="774dbd37-481f-46e4-a6c6-f1a036ba8dfd" valueTypeId="d7f44347-3acf-41a4-9454-3554d33dfe5c"/>
+  </producedTypes>
+  <name>РегистрНакопления1</name>
+  <comment></comment>
+  <useStandardCommands>true</useStandardCommands>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <enableTotalsSplitting>true</enableTotalsSplitting>
+  <resources uuid="891bbf36-2e9a-4843-951b-84ca576def07">
+    <name>Ресурс1</name>
+    <comment></comment>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>10</precision>
+      </numberQualifiers>
+    </type>
+    <mask></mask>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </resources>
+  <attributes uuid="478abe57-f403-49a2-9d8a-2e9e35211e83">
+    <name>Реквизит1</name>
+    <comment></comment>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <mask></mask>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </attributes>
+  <dimensions uuid="b2191a29-dba8-4025-a9e9-bc14ba9e1779">
+    <name>Измерение1</name>
+    <comment></comment>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <mask></mask>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <useInTotals>true</useInTotals>
+  </dimensions>
+</mdclass:AccumulationRegister>

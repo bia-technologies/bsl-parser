@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:FilterCriterion xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c48f420e-7c14-4e16-ac47-99569413c2ba">
+  <producedTypes>
+    <listType typeId="7bb28c57-f021-437b-b32c-80c92be40f62" valueTypeId="6b29a565-54c0-4ab8-97f4-d1902d3c4e8f"/>
+    <managerType typeId="6259eecb-dadd-49b2-9bec-30f3afc5d1ce" valueTypeId="652636dd-aee7-46c7-8777-f643675df33c"/>
+  </producedTypes>
+  <name>КритерийОтбора1</name>
+  <comment></comment>
+  <type/>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>FilterCriterion.КритерийОтбора1.Form.ФормаСписка</defaultForm>
+  <forms uuid="0c5fc9cd-4db0-466c-8ff0-b2341a3d325d">
+    <name>ФормаСписка</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма списка</value>
+    </synonym>
+    <comment></comment>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="21b295d3-41d3-4736-909d-b56de9e41773">
+    <name>ФормаСписка1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма списка1</value>
+    </synonym>
+    <comment></comment>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:FilterCriterion>

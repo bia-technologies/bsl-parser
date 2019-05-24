@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonCommand xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0f09422c-58da-45a0-8d0c-c0a0fac19fc4">
+  <name>ОбщаяКоманда1</name>
+  <comment></comment>
+  <group>CommandGroup.ГруппаКоманд1</group>
+  <commandParameterType/>
+  <representation>Auto</representation>
+  <shortcut></shortcut>
+</mdclass:CommonCommand>
