@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mdclass:SettingsStorage xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="efa4aae6-3d31-42ee-aa58-b5b6706ae8eb">
-  <producedTypes>
-    <managerType typeId="44e9856c-6fdf-45f8-b70e-4f8ef3bb3fbb" valueTypeId="ce8426a6-e996-4a5a-ac1f-0b8241ae422e"/>
-  </producedTypes>
-  <name>ХранилищеНастроек1</name>
-  <comment></comment>
-</mdclass:SettingsStorage>
